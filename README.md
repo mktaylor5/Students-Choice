@@ -12,3 +12,7 @@ https://www.express.co.uk/life-style/health/890722/Virtual-Reality-dementia-pati
 http://www.immersicare.com
 http://blog.pixvana.com/2017-vr-award-winners 
 http://medicalfuturist.com/top-vr-companies-healthcare/ 
+
+
+## Presentation
+<iframe src="//slides.com/megantaylor/tribemix/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
